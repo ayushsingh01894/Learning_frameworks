@@ -68,4 +68,20 @@ http://127.0.0.1:5000
 * Form Handling
 * Sessions
 * Redirects
-* Ba
+* Basic Authentication Logic
+
+📌 Future Improvements
+
+HTML Templates using Jinja2
+
+Database Integration
+
+User Registration System
+
+Flask + Machine Learning Integration
+
+👨‍💻 Author
+
+Ayush Singh
+
+GitHub: https://github.com/ayushsingh01894
