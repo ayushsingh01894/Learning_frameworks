@@ -33,7 +33,7 @@ Password: 123
 1. Clone the repository
 
 ```
-git clone https://github.com/ayushsingh01894/flask_learning.git
+git clone https://github.com/ayushsingh01894/Learning_frameworks.git
 ```
 
 2. Move into the project folder
