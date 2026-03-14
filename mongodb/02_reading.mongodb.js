@@ -6,4 +6,4 @@ use ("ecommerce")
 // db.products.find().pretty()
 
 //Filter by Field
-db.products.find({category:"Electronics"})
+db.products.find({ category: "Electronics" })
